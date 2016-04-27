@@ -1,0 +1,28 @@
+name: 3mco
+favicon: null
+layout_spectrum: 0.05637589911930263
+typography_spectrum: 0.39328660629689693
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.8544330652803183
+  lightness: 0.5018754058983177
+  saturation: 0.7992126664612442
+  rhythmicContrast: 0.8870652981568128
+purpose: []
